@@ -1,4 +1,4 @@
-# IA-241
+# ia241
 For my IA 241 course
 
 Kendall Smith
