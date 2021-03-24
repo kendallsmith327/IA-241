@@ -27,3 +27,5 @@ kendallsmith32700@gmail.com
 * item3
 
 [lab1](https://github.com/kendallsmith327/IA-241/blob/main/lab1.py)
+
+![jmu image](![image](https://user-images.githubusercontent.com/77935065/112339582-2b0a2400-8c96-11eb-92be-1e7edc1c02e1.png)
