@@ -11,3 +11,9 @@ kendallsmith32700@gmail.com
 3rd paragraphs
 
 ## level 3 heading
+
+**bold**
+
+*italic*
+
+> quote 
