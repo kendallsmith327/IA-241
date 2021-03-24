@@ -4,4 +4,10 @@ For my IA 241 course
 Kendall Smith
 kendallsmith32700@gmail.com
 
-2nd trial
+## level 2 heading
+
+2nd paragraphs
+
+3rd paragraphs
+
+## level 3 heading
